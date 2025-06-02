@@ -1,19 +1,27 @@
 {
     "itens": [
       {
-        "id": 2,
+        "id": 1,
         "nome": "X-Ratão",
         "preco": 30.00,
-        "imagem": "img/ratao.jfif",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0SeYFgZhOGKXWL0huiT2a7gJjWdPyQ0UUQ&s",
         "descricao": "Lanche X-Ratão, feito em SP",
         "categoria": "lanches"
       },
       {
-        "id": 7,
+        "id": 2,
         "nome": "X-Césio",
         "preco": 62.00,
-        "imagem": "img/uranium-burger.webp",
+        "imagem": "https://i.redd.it/uranium-burger-2-0-v0-997t0q7w02xc1.jpg?width=1170&format=pjpg&auto=webp&s=675895b15b5b3ee229f35ecb905eedc4b170d49f",
         "descricao": "Lanche X-Césio, feito em Goiania",
+        "categoria": "lanches"
+      }
+      {
+        "id": 3,
+        "nome": "X-Ponto50",
+        "preco": 62.00,
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdITemq310E4cb1j93sN6wLM9q4rnvitBRg&s",
+        "descricao": "Lanche X-Ponto50, feito no Rio",
         "categoria": "lanches"
       }
     ]
