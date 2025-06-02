@@ -5,7 +5,7 @@
         "nome": "X-Ratão",
         "preco": 30.00,
         "imagem": "img/ratao.jfif",
-        "descricao": "Foto do lanche X-Ratão",
+        "descricao": "Lanche X-Ratão, feito em SP",
         "categoria": "lanches"
       },
       {
@@ -13,7 +13,7 @@
         "nome": "X-Césio",
         "preco": 62.00,
         "imagem": "img/uranium-burger.webp",
-        "descricao": "Foto do lanche X-Césio",
+        "descricao": "Lanche X-Césio, feito em Goiania",
         "categoria": "lanches"
       }
     ]
