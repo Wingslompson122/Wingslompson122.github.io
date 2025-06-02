@@ -1,0 +1,20 @@
+{
+    "itens": [
+      {
+        "id": 2,
+        "nome": "X-Ratão",
+        "preco": 30.00,
+        "imagem": "img/ratao.jfif",
+        "descricao": "Foto do lanche X-Ratão",
+        "categoria": "lanches"
+      },
+      {
+        "id": 7,
+        "nome": "X-Césio",
+        "preco": 62.00,
+        "imagem": "img/uranium-burger.webp",
+        "descricao": "Foto do lanche X-Césio",
+        "categoria": "lanches"
+      }
+    ]
+  }
