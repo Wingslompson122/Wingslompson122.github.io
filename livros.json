@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "name": "Ficção",
+      "books": [
+        { "id": 1, "title": "Dom Casmurro", "author": "Machado de Assis", "year": 1899, "isbn": "9788503005500" },
+        { "id": 2, "title": "Cem Anos de Solidão", "author": "Gabriel García Márquez", "year": 1967, "isbn": "9788520923574" },
+        { "id": 3, "title": "1984", "author": "George Orwell", "year": 1949, "isbn": "9780141187761" },
+        { "id": 4, "title": "O Alienista", "author": "Machado de Assis", "year": 1882, "isbn": "9788503010566" },
+        { "id": 5, "title": "A Metamorfose", "author": "Franz Kafka", "year": 1915, "isbn": "9788535914843" }
+      ]
+    },
+    {
+      "name": "Não-ficção",
+      "books": [
+        { "id": 6, "title": "Sapiens: Uma Breve História da Humanidade", "author": "Yuval Noah Harari", "year": 2011, "isbn": "9788535925429" },
+        { "id": 7, "title": "O Poder do Hábito", "author": "Charles Duhigg", "year": 2012, "isbn": "9788539004113" },
+        { "id": 8, "title": "Mindset: A Nova Psicologia do Sucesso", "author": "Carol S. Dweck", "year": 2006, "isbn": "9788575427023" },
+        { "id": 9, "title": "Influência: A Psicologia da Persuasão", "author": "Robert B. Cialdini", "year": 1984, "isbn": "9788535243149" },
+        { "id": 10, "title": "Por que as Nações Fracassam", "author": "Daron Acemoglu e James A. Robinson", "year": 2012, "isbn": "9788535931031" }
+      ]
+    },
+    {
+      "name": "Ciência",
+      "books": [
+        { "id": 11, "title": "Uma Breve História do Tempo", "author": "Stephen Hawking", "year": 1988, "isbn": "9788535914846" },
+        { "id": 12, "title": "O Gene Egoísta", "author": "Richard Dawkins", "year": 1976, "isbn": "9788535921285" },
+        { "id": 13, "title": "Cosmos", "author": "Carl Sagan", "year": 1980, "isbn": "9788535903754" },
+        { "id": 14, "title": "A Dança do Universo", "author": "Cláudio Moura Castro", "year": 2001, "isbn": "9788571104510" },
+        { "id": 15, "title": "O Universo Numa Casca de Noz", "author": "Stephen Hawking", "year": 2001, "isbn": "9788535916314" }
+      ]
+    },
+    {
+      "name": "História",
+      "books": [
+        { "id": 16, "title": "Armas, Germes e Aço", "author": "Jared Diamond", "year": 1997, "isbn": "9788535903747" },
+        { "id": 17, "title": "História da Riqueza no Brasil", "author": "Thiago Bottino", "year": 2010, "isbn": "9788535929486" },
+        { "id": 18, "title": "Brasil: Uma Biografia", "author": "Lilia M. Schwarcz e Heloisa M. Starling", "year": 2015, "isbn": "9788535933417" },
+        { "id": 19, "title": "O Povo Brasileiro", "author": "Darcy Ribeiro", "year": 1995, "isbn": "9788573260125" },
+        { "id": 20, "title": "A Era dos Extremos", "author": "Eric Hobsbawm", "year": 1994, "isbn": "9788525415955" }
+      ]
+    },
+    {
+      "name": "Infantojuvenil",
+      "books": [
+        { "id": 21, "title": "O Pequeno Príncipe", "author": "Antoine de Saint-Exupéry", "year": 1943, "isbn": "9788525413661" },
+        { "id": 22, "title": "Harry Potter e a Pedra Filosofal", "author": "J.K. Rowling", "year": 1997, "isbn": "9788532548160" },
+        { "id": 23, "title": "Alice no País das Maravilhas", "author": "Lewis Carroll", "year": 1865, "isbn": "9788520934853" },
+        { "id": 24, "title": "O Diário de um Banana", "author": "Jeff Kinney", "year": 2007, "isbn": "9788574061571" },
+        { "id": 25, "title": "A Bolsa Amarela", "author": "Lygia Bojunga", "year": 1976, "isbn": "9788506016480" }
+      ]
+    },
+    {
+      "name": "Mistério & Suspense",
+      "books": [
+        { "id": 26, "title": "O Código Da Vinci", "author": "Dan Brown", "year": 2003, "isbn": "9788535929417" },
+        { "id": 27, "title": "Sherlock Holmes: Um Estudo em Vermelho", "author": "Arthur Conan Doyle", "year": 1887, "isbn": "9788520933313" },
+        { "id": 28, "title": "A Garota no Trem", "author": "Paula Hawkins", "year": 2015, "isbn": "9788501105759" },
+        { "id": 29, "title": "O Silêncio dos Inocentes", "author": "Thomas Harris", "year": 1988, "isbn": "9788503003452" },
+        { "id": 30, "title": "Garota Sombria Caminha pela Noite", "author": "Jonathan Janz", "year": 2015, "isbn": "9788556510150" }
+      ]
+    }
+  ]
+}
